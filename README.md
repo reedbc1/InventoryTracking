@@ -1,2 +1,1 @@
-# Diapers
-<-- Summarize findings here -->
+# Inventory Tracking
